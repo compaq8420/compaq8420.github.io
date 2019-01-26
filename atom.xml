@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ipea&#39;s blog</title>
   
-  
+  <subtitle>教练</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-26T04:18:25.288Z</updated>
+  <updated>2019-01-26T11:08:18.090Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大家继续打酱油</title>
+    <link href="http://yoursite.com/2019/01/26/hello-ge-wei-20190126003/"/>
+    <id>http://yoursite.com/2019/01/26/hello-ge-wei-20190126003/</id>
+    <published>2019-01-26T11:00:30.000Z</published>
+    <updated>2019-01-26T11:08:18.090Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;主讲人：中国人&quot;&gt;&lt;a href=&quot;#主讲人：中国人&quot; class=&quot;headerlink&quot; title=&quot;主讲人：中国人&quot;&gt;&lt;/a&gt;主讲人：中国人&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;咪豆爸～ipea:&lt;blockquote&gt;
+&lt;p&gt;哦咯在一起
+        
+      
+    
+    </summary>
+    
+      <category term="lesson" scheme="http://yoursite.com/categories/lesson/"/>
+    
+    
+      <category term="课程" scheme="http://yoursite.com/tags/%E8%AF%BE%E7%A8%8B/"/>
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大家一起打酱油</title>
+    <link href="http://yoursite.com/2019/01/26/hello-ge-wei-20190126002/"/>
+    <id>http://yoursite.com/2019/01/26/hello-ge-wei-20190126002/</id>
+    <published>2019-01-26T10:03:36.000Z</published>
+    <updated>2019-01-26T10:05:19.699Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;主讲人：中国人&quot;&gt;&lt;a href=&quot;#主讲人：中国人&quot; class=&quot;headerlink&quot; title=&quot;主讲人：中国人&quot;&gt;&lt;/a&gt;主讲人：中国人&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;咪豆爸～ipea:&lt;blockquote&gt;
+&lt;p&gt;女V5哦也是
+        
+      
+    
+    </summary>
+    
+      <category term="lesson" scheme="http://yoursite.com/categories/lesson/"/>
+    
+    
+      <category term="课程" scheme="http://yoursite.com/tags/%E8%AF%BE%E7%A8%8B/"/>
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>释放牢笼中的面具自我</title>

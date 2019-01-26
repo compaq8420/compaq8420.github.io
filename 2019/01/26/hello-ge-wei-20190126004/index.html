@@ -291,6 +291,19 @@ shuffle cope card over!
 </header>
 
 
+<script src="/libs/cryptojs/crypto-js.min.js"></script>
+<script>
+    (function() {
+        let pwd = '5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5';
+        if (pwd && pwd.length > 0) {
+            if (pwd !== CryptoJS.SHA256(prompt('请输入访问本文章的密码')).toString(CryptoJS.enc.Hex)) {
+                alert('密码错误，将返回主页！');
+                location.href = '/';
+            }
+        }
+    })();
+</script>
+
 
 
 
@@ -560,24 +573,58 @@ shuffle cope card over!
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/0.jpg" class="responsive-img" alt="">
+                        <img src="/medias/featureimages/0.jpg" class="responsive-img" alt="打呀么打酱油">
                         
-                        <span class="card-title"></span>
+                        <span class="card-title">打呀么打酱油</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
-                    <div class="summary"></div>
+                    <div class="summary">主讲人：中国人
+咪豆爸～ipea:
+龙锦苑五区西门 
+
+
+咪豆爸～ipea:
+这东西公务员 
+
+
+咪豆爸～ipea:
+咪豆爸～ipea:
+25cope 
+
+
+咪豆爸～ipea:
+shuffle cope card over! 
+
+
+咪豆爸～</div>
                     <div class="publish-info">
                         <span class="publish-date">
                             <i class="fa fa-clock-o fa-fw icon-date"></i>2019-01-26
                         </span>
                         <span class="publish-author">
                             
-                            <i class="fa fa-user fa-fw"></i>
-                            Li Qun
+                            <i class="fa fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/lesson/" class="post-category" target="_blank">
+                                    lesson
+                                </a>
+                            
                             
                         </span>
                     </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/课程/" target="_blank">
+                        <span class="chip bg-color">课程</span>
+                    </a>
+                    
+                    <a href="/tags/记录/" target="_blank">
+                        <span class="chip bg-color">记录</span>
+                    </a>
+                    
                 </div>
                 
             </div>

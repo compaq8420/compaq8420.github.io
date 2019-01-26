@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ipea&#39;s blog</title>
   
-  <subtitle>教练</subtitle>
+  <subtitle>Coach</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-26T12:01:00.985Z</updated>
+  <updated>2019-01-26T13:12:49.231Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,15 +18,45 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2019/01/26/hello-ge-wei-20190126005/"/>
-    <id>http://yoursite.com/2019/01/26/hello-ge-wei-20190126005/</id>
-    <published>2019-01-26T12:01:00.985Z</published>
-    <updated>2019-01-26T12:01:00.985Z</updated>
+    <link href="http://yoursite.com/2019/01/26/hello-ge-wei-20190126006/"/>
+    <id>http://yoursite.com/2019/01/26/hello-ge-wei-20190126006/</id>
+    <published>2019-01-26T13:12:49.231Z</published>
+    <updated>2019-01-26T13:12:49.231Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>打呀么打酱油</title>
+    <link href="http://yoursite.com/2019/01/26/hello-ge-wei-20190126005/"/>
+    <id>http://yoursite.com/2019/01/26/hello-ge-wei-20190126005/</id>
+    <published>2019-01-26T11:58:50.000Z</published>
+    <updated>2019-01-26T12:10:12.022Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;主讲人：中国人&quot;&gt;&lt;a href=&quot;#主讲人：中国人&quot; class=&quot;headerlink&quot; title=&quot;主讲人：中国人&quot;&gt;&lt;/a&gt;主讲人：中国人&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;咪豆爸～ipea:&lt;blockquote&gt;
+&lt;p&gt;龙锦苑五区西门
+        
+      
+    
+    </summary>
+    
+      <category term="lesson" scheme="http://yoursite.com/categories/lesson/"/>
+    
+    
+      <category term="课程" scheme="http://yoursite.com/tags/%E8%AF%BE%E7%A8%8B/"/>
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   

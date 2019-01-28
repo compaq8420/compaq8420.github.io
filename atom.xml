@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-26T14:32:28.506Z</updated>
+  <updated>2019-01-28T08:23:06.570Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,15 +18,45 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2019/01/26/hello-ge-wei-20190126007/"/>
-    <id>http://yoursite.com/2019/01/26/hello-ge-wei-20190126007/</id>
-    <published>2019-01-26T14:32:28.506Z</published>
-    <updated>2019-01-26T14:32:28.506Z</updated>
+    <link href="http://yoursite.com/2019/01/28/hello-ge-wei-20190127001/"/>
+    <id>http://yoursite.com/2019/01/28/hello-ge-wei-20190127001/</id>
+    <published>2019-01-28T08:23:06.570Z</published>
+    <updated>2019-01-28T08:23:06.570Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>走，打酱油去！</title>
+    <link href="http://yoursite.com/2019/01/26/hello-ge-wei-20190126007/"/>
+    <id>http://yoursite.com/2019/01/26/hello-ge-wei-20190126007/</id>
+    <published>2019-01-26T14:29:41.000Z</published>
+    <updated>2019-01-26T14:32:41.429Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;主讲人：中国人&quot;&gt;&lt;a href=&quot;#主讲人：中国人&quot; class=&quot;headerlink&quot; title=&quot;主讲人：中国人&quot;&gt;&lt;/a&gt;主讲人：中国人&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;咪豆爸～ipea:&lt;blockquote&gt;
+&lt;p&gt;曾哈咯呀武器
+        
+      
+    
+    </summary>
+    
+      <category term="lesson" scheme="http://yoursite.com/categories/lesson/"/>
+    
+    
+      <category term="课程" scheme="http://yoursite.com/tags/%E8%AF%BE%E7%A8%8B/"/>
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8">
+<title>QQ音乐</title>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+
+    <meta http-equiv="refresh" content="3; url=https&#58;&#47;&#47;y&#46;qq&#46;com&#47;m&#47;index&#46;html&#63;ADTAG&#61;playsong&#46;svr_err" />
+
+<style>
+	html,h1,p{margin:0;padding:0;line-height:1.5;font-family:"Helvetica Neue",Helvetica,sans-serif;}
+	body{margin:0;padding:100px 16px;}
+	h1{font-size:20px;color:#000;margin-bottom:10px;text-align:center;}
+	p{font-size:16px;color:#666;margin-bottom:5px;text-align:center;}
+	.qui_prompt__icon{display:block;width:150px;margin:0 auto 10px;fill:#31c27c;}
+</style>
+</head>
+<body>
+<svg style="display:none;" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="qui_prompt_error" viewBox="0 0 32 32">
+        <path d="M16.36 26.736h9.66c.82 0 1.494-.673 1.494-1.495V6.7c0-.823-.673-1.496-1.495-1.496H4.037c-.822 0-1.495.673-1.495 1.495v18.54c0 .823.673 1.496 1.495 1.496h9.705l-.927-1.047h-8.48c-.418 0-.747-.33-.747-.75V6.998c0-.42.328-.748.747-.748H25.72c.42 0 .748.328.748.747V24.94c0 .42-.33.75-.748.75h-8.374l-.987 1.046z"/>
+        <path d="M27.514 24.793h.45c.82 0 1.494-.673 1.494-1.495V4.756c0-.822-.673-1.495-1.495-1.495H5.983c-.823 0-1.496.674-1.496 1.496v.45h1.047v-.15c0-.42.33-.75.748-.75h21.383c.42 0 .748.33.748.75v17.943c0 .418-.33.747-.748.747h-.15v1.047zM18.078 20.202c-.688-.942-1.81-1.54-3.065-1.54-1.24 0-2.333.583-3.036 1.51-.09.09-.15.224-.15.374 0 .284.224.508.508.508.194 0 .374-.12.45-.284.522-.643 1.33-1.062 2.227-1.062.927 0 1.75.45 2.273 1.136 0 .015.015.015.015.03 0 0 0 .015.015.015.09.104.224.178.39.178.283 0 .507-.224.507-.508 0-.15-.045-.27-.135-.36zM12.71 25.69l2.393 2.093 2.228-2.093.15 1.047-1.943 1.84c-.24.223-.628.238-.882.014l-2.093-1.853.15-1.047z"/>
+        <path d="M21.533 11.335l.748.733-1.793 1.99 1.794 1.928-.747.733-2.393-2.678zM8.374 11.335l-.748.733 1.794 1.99-1.794 1.928.748.733 2.393-2.678z"/>
+    </symbol>
+</svg>
+
+<svg class="qui_prompt__icon"><use xlink:href="#qui_prompt_error"></use></svg>
+    <h1>很抱歉! 出错了! 1002</h1>
+	<p>3秒后将自动跳转到QQ音乐首页...</p>
+
+
+<!-- tpl_redirect -->
+
+</body>
+</html>
